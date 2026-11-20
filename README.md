@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Omotayo
 
-<!--
-**Bluegerine/Bluegerine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI automation and Python tools, and I'm a volunteer **Content Researcher at DailyTech**, where I verify tech stories and turn them into research briefs for editors and writers.
 
-Here are some ideas to get you started:
+I founded **Bluegerine**, an AI automation agency. My work sits where technical skill meets careful research: tools that save time, and habits that keep claims honest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **AI automation:** workflows that connect AI models, APIs and business tools
+- **Python development:** command-line tools, data pipelines and scripts
+- **Research method:** source tracking, claim verification and clear briefs
+- **Also offered through Bluegerine:** AWS cloud, cybersecurity and IT consulting
+
+## Featured projects
+
+| Project | What it does |
+|---|---|
+| [**research-toolkit**](https://github.com/bluegerine/research-toolkit) | Two Python projects for tech research, described below |
+| **Research Radar** | Monitors tech news feeds, groups coverage of the same story across outlets, extracts claims with the Claude API and writes a digest to verify |
+| **claimlog** | A command-line source tracker that logs each claim with its source, date and verification status, and exports to CSV or Markdown |
+
+The radar never marks a claim as confirmed. A human checks the primary source.
+
+## Tools I use
+
+Python, SQLite, the Claude API, n8n, AWS, Git and GitHub
+
+## Research samples
+
+Sample research briefs and source trackers: [add link once published]
+
+## Find me
+
+- Portfolio: [add portfolio link]
+- LinkedIn: [https://www.linkedin.com/in/omotayo-dada-26871583]
+- Email: [mailchanka@gmail.com]
